@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QBRudRQG/Ik=",
+  "success": true,
+  "projectFilePath": "D:\\MemberManagementAPI\\MemberManagementAPI.Application\\MemberManagementAPI.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IBZ\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}
